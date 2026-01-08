@@ -1,0 +1,456 @@
+cve,description,appearance_count,max_similarity,avg_similarity
+CVE-2023-48292,XWiki Standard 14.10 - Remote Code Execution (RCE),31,0.6981245279312134,0.6070242216510158
+CVE-2022-35411,rpc.py 0.6.0 - Remote Code Execution (RCE),18,0.6755729913711548,0.6074310392141342
+CVE-2024-39930,gogs 0.13.0 - Remote Code Execution (RCE),17,0.6746191382408142,0.6015097411239848
+CVE-2019-9213;CVE-2018-5333,Reliable Datagram Sockets (RDS) - rds_atomic_free_op NULL pointer dereference Privilege Escalation (,17,0.663143515586853,0.6217380972469554
+N/A,Centreon 19.10.5 - 'Pollers' Remote Command Execution (Metasploit),15,0.7564114332199097,0.6433356006940206
+CVE-2020-11108,Pi-Hole - heisenbergCompensator Blocklist OS Command Execution (Metasploit),15,0.7416811585426331,0.6433750748634338
+CVE-2022-23626,m1k1o's Blog v.10 - Remote Code Execution (RCE) (Authenticated),15,0.6994162797927856,0.6349703550338746
+N/A,Craft CMS 4.4.14 - Unauthenticated Remote Code Execution,15,0.6830700635910034,0.6216285546620687
+N/A,File Thingie 2.5.7 - Remote Code Execution (RCE),15,0.681207537651062,0.6002723654111226
+CVE-2019-11229,Gitea 1.7.5 - Remote Code Execution,15,0.6567683815956116,0.5946998238563538
+N/A,Wago PFC200 - Authenticated Remote Code Execution (Metasploit),13,0.7445152401924133,0.6420878951366131
+N/A,Microweber CMS 1.2.10 - Local File Inclusion (Authenticated) (Metasploit),13,0.6842759251594543,0.6041425787485563
+N/A,SOPlanning 1.52.01 (Simple Online Planning Tool) - Remote Code Execution (RCE) (Authenticated),12,0.7265967130661011,0.6331607649723688
+CVE-2021-42840,SuiteCRM 7.11.18 - Remote Code Execution (RCE) (Authenticated) (Metasploit),11,0.7447136640548706,0.6313540285283868
+N/A,PHPStudy - Backdoor Remote Code execution (Metasploit),10,0.7580296993255615,0.6485662221908569
+N/A,Bludit 3.9.2 - Authentication Bruteforce Bypass (Metasploit),10,0.6993032097816467,0.6134919762611389
+N/A,Centreo 19.10.8 - 'DisplayServiceStatus' Remote Code Execution,9,0.721907377243042,0.6601222091250949
+CVE-2020-35848;CVE-2020-35847,Cockpit CMS 0.11.1 - 'Username Enumeration & Password Reset' NoSQL Injection,9,0.6907269358634949,0.6015722420480516
+CVE-2019-15715;CVE-2017-7615,Mantis Bug Tracker 2.3.0 - Remote Code Execution (Unauthenticated),9,0.6012102961540222,0.5677661697069804
+CVE-2021-21425,GravCMS 1.10.7 - Unauthenticated Arbitrary File Write (Metasploit),8,0.7613635063171387,0.6147736981511116
+N/A,WordPress Plugin Autoptimize 2.7.6 - Authenticated Arbitrary File Upload (Metasploit),8,0.7366379499435425,0.6505015939474106
+N/A,Job Portal 1.0 - Remote Code Execution,8,0.697776734828949,0.6125609874725342
+CVE-2021-43579,HTMLDOC 1.9.13 - Stack Buffer Overflow,8,0.6735610961914062,0.6051185205578804
+N/A,Cacti 1.2.8 - Remote Code Execution,7,0.9837454557418823,0.7288991468293327
+N/A,Textpattern 4.8.3 - Remote code execution (Authenticated) (2),7,0.733420193195343,0.681948823588235
+CVE-2021-3291,Zen Cart 1.5.7b - Remote Code Execution (Authenticated),7,0.6670000553131104,0.6025833828108651
+CVE-2018-15139,OpenEMR 5.0.1.3 - 'manage_site_files' Remote Code Execution (Authenticated),7,0.6649196743965149,0.5772493651935032
+CVE-2019-19208,Codiad 2.8.4 - Remote Code Execution (Authenticated) (2),7,0.6581823229789734,0.5938913226127625
+CVE-2019-14530,OpenEMR 5.0.1.7 - 'fileName' Path Traversal (Authenticated),7,0.6322031617164612,0.5802404795374189
+CVE-2020-11108,Pi-hole < 4.4 - Authenticated Remote Code Execution / Privileges Escalation,7,0.6296129822731018,0.6064419150352478
+CVE-2024-23749,KiTTY 0.76.1.13 - Command Injection,7,0.6076769828796387,0.5843500409807477
+CVE-2023-1545,TeamPass 3.0.0.21 - SQL Injection,7,0.6053333878517151,0.5535918005875179
+N/A,Wordpress Plugin wpDiscuz 7.0.4 - Unauthenticated Arbitrary File Upload (Metasploit),6,0.768942654132843,0.6867210666338602
+N/A,Cmsimple 5.4 - Remote Code Execution (RCE) (Authenticated),6,0.7583132386207581,0.6609577039877573
+N/A,WordPress Plugin W3 Total Cache - Unauthenticated Arbitrary File Read (Metasploit),6,0.7492724061012268,0.679314394791921
+N/A,RiteCMS 2.2.1 - Remote Code Execution (Authenticated),6,0.7472659349441528,0.625340590874354
+CVE-2022-29885,Apache Tomcat 10.1 - Denial Of Service,6,0.7430229187011719,0.5771614015102386
+N/A,WordPress Plugin InfiniteWP - Client Authentication Bypass (Metasploit),6,0.7199020981788635,0.6306904355684916
+CVE-2023-41425,WonderCMS 3.4.2 - Remote Code Execution (RCE),6,0.698940634727478,0.617320696512858
+CVE-2018-6383,Monstra CMS 3.0.4 - Remote Code Execution (Authenticated),6,0.6837908029556274,0.6006062229474386
+N/A,CMS Made Simple 2.2.14 - Authenticated Arbitrary File Upload,6,0.6745647192001343,0.5737761656443278
+N/A,CMS Made Simple 2.2.14 - Arbitrary File Upload (Authenticated),6,0.6643300652503967,0.6026547054449717
+CVE-2021-27370,Monica 2.19.1 - 'last_name' Stored XSS,6,0.6354864239692688,0.5799164275328318
+CVE-2023-34096,Thruk Monitoring Web Interface 3.06 - Path Traversal,6,0.6206499338150024,0.5772552986939748
+N/A,Online Job Portal 1.0 - Remote Code Execution,6,0.6132819652557373,0.5585760623216629
+CVE-2021-31933,Chamilo LMS 1.11.14 - Remote Code Execution (Authenticated),5,0.7968516945838928,0.6372023463249207
+CVE-2025-32462,Sudo 1.9.17 Host Option - Elevation of Privilege,5,0.765102744102478,0.6343112826347351
+N/A,Cacti v1.2.8 - Unauthenticated Remote Code Execution (Metasploit),5,0.7647144198417664,0.6354791402816773
+CVE-2024-25641,Cacti 1.2.26 -  Remote Code Execution (RCE) (Authenticated),5,0.7479701638221741,0.6151236474514008
+N/A,TextPattern CMS 4.8.3 - Remote Code Execution (Authenticated),5,0.7272663712501526,0.678789484500885
+CVE-2025-50481,Mezzanine CMS 6.1.0 - Stored Cross Site Scripting (XSS),5,0.7141067981719971,0.6387222409248352
+CVE-2019-16113,Bludit 3.9.12 - Directory Traversal,5,0.7043051719665527,0.6599765539169311
+CVE-2022-37706,Enlightenment v0.25.3 - Privilege escalation,5,0.6875122785568237,0.5896146059036255
+CVE-2022-23046,PHPIPAM 1.4.4 - SQLi (Authenticated),5,0.6838703751564026,0.6600523591041565
+CVE-2024-43425,Moodle 4.4.0 - Authenticated Remote Code Execution,5,0.6718787550926208,0.5959002494812011
+N/A,Chikitsa Patient Management System 2.0.2 - 'plugin' Remote Code Execution (RCE) (Authenticated),5,0.6664784550666809,0.5588884115219116
+CVE-2025-59528,Flowise 3.0.4 - Remote Code Execution (RCE),5,0.6655683517456055,0.6239914655685425
+CVE-2018-19422,Subrion CMS 4.2.1 - Arbitrary File Upload,5,0.6347525715827942,0.5779626965522766
+N/A,TextPattern CMS 4.8.7 - Remote Command Execution (Authenticated),5,0.6213503479957581,0.604678463935852
+N/A,Webgrind 1.1 - Reflected Cross-Site Scripting (XSS) & Remote Command Execution (RCE),5,0.5938401222229004,0.5552154898643493
+CVE-2022-2884,GitLab v15.3 - Remote Code Execution (RCE) (Authenticated),4,0.7759353518486023,0.6329855024814606
+CVE-2023-25440,CiviCRM 5.59.alpha1 - Stored XSS (Cross-Site Scripting),4,0.7541562914848328,0.6620910167694092
+N/A,Online Leave Management System 1.0 - Arbitrary File Upload to Shell (Unauthenticated),4,0.7312623262405396,0.661988839507103
+N/A,Ajenti 2.1.36 - Remote Code Execution (Authenticated),4,0.7170036435127258,0.6102860048413277
+N/A,Wordpress Plugin Duplicator 1.3.26 - Unauthenticated Arbitrary File Read (Metasploit),4,0.7110238075256348,0.6395151168107986
+N/A,PHP 8.1.0-dev - 'User-Agentt' Remote Code Execution,4,0.7093585133552551,0.63961461186409
+CVE-2018-19585;CVE-2018-19571,GitLab 11.4.7 - RCE (Authenticated) (2),4,0.7033233642578125,0.6093176752328873
+N/A,CMSimple 5.4 - Local file inclusion (LFI) to Remote code execution (RCE) (Authenticated),4,0.6953949928283691,0.6325121819972992
+N/A,Gitlab 13.10.2 - Remote Code Execution (Authenticated),4,0.6843652129173279,0.5943865925073624
+N/A,WBCE CMS 1.5.2 - Remote Code Execution (RCE) (Authenticated),4,0.6836305856704712,0.6559863537549973
+CVE-2020-11108,Pi-hole 4.4.0 - Remote Code Execution (Authenticated),4,0.6813689470291138,0.6208383440971375
+N/A,Covid-19 Contact Tracing System 1.0 - Remote Code Execution (Unauthenticated),4,0.6642233729362488,0.6477622538805008
+N/A,Online Reviewer System 1.0 - Remote Code Execution (RCE) (Unauthenticated),4,0.6622196435928345,0.6366206407546997
+CVE-2024-25004,KiTTY 0.76.1.13 - 'Start Duplicated Session Username' Buffer Overflow,4,0.6464446783065796,0.6029675304889679
+CVE-2021-22146,Elasticsearch ECE 7.13.3 - Anonymous Database Dump,4,0.6441755890846252,0.5405961126089096
+CVE-2022-0848,part-db 0.5.11 - Remote Code Execution (RCE),4,0.6398774981498718,0.5586879551410675
+N/A,EasyPHP Webserver 14.1 - Multiple Vulnerabilities (RCE and Path Traversal),4,0.6379128098487854,0.618349701166153
+CVE-2019-0221,Apache Tomcat 9.0.0.M1 - Cross-Site Scripting (XSS),4,0.6371768116950989,0.5663546174764633
+CVE-2017-6478,MaNGOSWebV4  4.0.6 - Reflected XSS,4,0.6321264505386353,0.5873289108276367
+CVE-2019-1125,Microsoft Windows Kernel - Information Disclosure,4,0.631475031375885,0.5992021262645721
+CVE-2021-29460,Kirby CMS 3.5.3.1 - 'file' Cross-Site Scripting (XSS),4,0.6311575174331665,0.5652468428015709
+CVE-2019-0230,Apache Struts 2.5.20 - Double OGNL evaluation,4,0.6300688982009888,0.5767103582620621
+CVE-2025-8550,atjiu pybbs 6.0.0 - Cross Site Scripting (XSS),4,0.6262794733047485,0.5365881472826004
+N/A,Filerun 2021.03.26 - Remote Code Execution (RCE) (Authenticated),4,0.6250221729278564,0.5860575884580612
+CVE-2024-24724,Gibbon LMS v26.0.00 - SSTI vulnerability,4,0.6238366961479187,0.5823733359575272
+CVE-2025-59342,esm-dev 136 - Path Traversal,4,0.6166443824768066,0.5789514183998108
+CVE-2024-25003,KiTTY 0.76.1.13 - 'Start Duplicated Session Hostname' Buffer Overflow,4,0.6160888671875,0.6021228432655334
+CVE-2020-23839,GetSimple CMS 3.3.16 - Persistent Cross-Site Scripting,4,0.6046652793884277,0.5754091888666153
+N/A,rConfig 3.9.4 - 'searchField' Unauthenticated Root Remote Code Execution,4,0.5972557663917542,0.582215890288353
+CVE-2023-45131,Discourse 3.1.1 - Unauthenticated Chat Message Access,4,0.5968629717826843,0.5472615361213684
+CVE-2022-24124,Casdoor 1.13.0 - SQL Injection (Unauthenticated),4,0.5909642577171326,0.5547687411308289
+N/A,NukeViet VMS 4.4.00 - Cross-Site Request Forgery (Change Admin Password),4,0.5890352725982666,0.5652005672454834
+N/A,aaPanel 6.6.6 - Privilege Escalation & Remote Code Execution (Authenticated),4,0.5835237503051758,0.5535655170679092
+CVE-2021-21276,POLR URL 2.3.0 - Shortener Admin Takeover,4,0.546019434928894,0.515830971300602
+CVE-2020-8794,OpenSMTPD - OOB Read Local Privilege Escalation (Metasploit),3,0.9111656546592712,0.7812235355377197
+CVE-2020-14295,Cacti 1.2.12 - 'filter' SQL Injection,3,0.8270341157913208,0.8115404844284058
+N/A,Open-AudIT Professional 3.3.1 - Remote Code Execution,3,0.7509950399398804,0.7148935993512472
+N/A,WP Fastest Cache 1.2.2 - Unauthenticated SQL Injection,3,0.7423714995384216,0.6513068079948425
+CVE-2015-6830,PHPMyAdmin 3.0 - Bruteforce Login Bypass,3,0.736001193523407,0.6677728096644083
+N/A,Judging Management System v1.0 - Remote Code Execution (RCE),3,0.7310402393341064,0.6894303560256958
+CVE-2024-28623,RiteCMS 3.0.0 - Reflected Cross Site Scripting (XSS),3,0.7228125333786011,0.6425200502077738
+N/A,GitLab Community Edition (CE) 13.10.3 - 'Sign_Up' User Enumeration,3,0.7182849049568176,0.641069749991099
+N/A,Google Chrome 80.0.3987.87 - Heap-Corruption Remote Denial of Service (PoC),3,0.7137885093688965,0.6383261283238729
+CVE-2022-1175,GitLab 14.9 - Stored Cross-Site Scripting (XSS),3,0.708903968334198,0.6753260294596354
+CVE-2018-19585;CVE-2018-19571,GitLab 11.4.7 - Remote Code Execution (Authenticated) (1),3,0.7036944031715393,0.6399015188217163
+CVE-2021-31761,Webmin 1.973 - 'run.cgi' Cross-Site Request Forgery (CSRF),3,0.7021685242652893,0.6481118599573771
+CVE-2022-0824,Webmin 1.984 - Remote Code Execution (Authenticated),3,0.700594961643219,0.6252446174621582
+N/A,phpIPAM 1.4.5 - Remote Code Execution (RCE) (Authenticated),3,0.7005286812782288,0.677725613117218
+N/A,b2evolution 6.11.6 - 'tab3' Reflected XSS,3,0.6957565546035767,0.6293169061342875
+CVE-2021-37391,Chamilo LMS 1.11.14 - Account Takeover,3,0.6929494738578796,0.5985752741495768
+N/A,Engineers Online Portal 1.0 - 'multiple' Stored Cross-Site Scripting (XSS),3,0.6824797987937927,0.6341551343599955
+N/A,WordPress Plugin Smart Slider-3 3.5.0.8 - 'name' Stored Cross-Site Scripting (XSS),3,0.6821681261062622,0.62668909629186
+CVE-2022-30781,Gitea 1.16.6 - Remote Code Execution (RCE) (Metasploit),3,0.6808919906616211,0.6023593743642172
+N/A,Client Details System 1.0 - SQL Injection,3,0.6756778955459595,0.6491546630859375
+N/A,Sysaid 20.1.11 b26 - Remote Command Execution,3,0.6736859679222107,0.5186654726664225
+N/A,Gitlab 13.9.3 - Remote Code Execution (Authenticated),3,0.6685073971748352,0.6249282558759054
+CVE-2025-31650,Apache Tomcat 10.1.39 - Denial of Service (DoS),3,0.6613642573356628,0.5932948688666025
+CVE-2020-2231,Jenkins 2.235.3 - 'X-Forwarded-For' Stored XSS,3,0.6527963280677795,0.6231070955594381
+CVE-2022-4944,KodExplorer 4.49 - CSRF to Arbitrary File Upload,3,0.6487489938735962,0.5876734256744385
+N/A,Real Estate Management System v1.0 - Remote Code Execution via File Upload,3,0.6452865600585938,0.6139849424362183
+N/A,ManageEngine ADSelfService Build prior to 6003 - Remote Code Execution (Unauthenticated),3,0.6446765661239624,0.584264894326528
+CVE-2025-31131,YesWiki 4.5.1 - Unauthenticated Path Traversal,3,0.6421381831169128,0.607899526755015
+N/A,Gila CMS 1.10.9 - Remote Code Execution (RCE) (Authenticated),3,0.6403570771217346,0.6302449107170105
+CVE-2021-43857,Gerapy 0.9.7 - Remote Code Execution (RCE) (Authenticated),3,0.6391789317131042,0.5888745784759521
+N/A,QuickDate 1.3.2 - SQL Injection,3,0.6386721134185791,0.5994111895561218
+N/A,thrsrossi Millhouse-Project 1.414 - Remote Code Execution,3,0.638453483581543,0.6156886418660482
+CVE-2020-2230,Jenkins 2.235.3 - 'Description' Stored XSS,3,0.6378108859062195,0.6112328767776489
+CVE-2021-26929,Horde Groupware Webmail 5.2.22 - Stored XSS,3,0.6359958648681641,0.5737818876902262
+N/A,Sphider Search Engine 1.3.6 - 'word_upper_bound' RCE (Authenticated),3,0.627754271030426,0.6127553979555765
+CVE-2022-3552,BoxBilling<=4.22.1.5 - Remote Code Execution (RCE),3,0.6214442253112793,0.5578745206197103
+N/A,Church Management System 1.0 - SQL Injection (Authentication Bypass) + Arbitrary File Upload + RCE,3,0.6162534952163696,0.590583602587382
+N/A,SofaWiki 3.9.2 - Remote Command Execution (RCE) (Authenticated),3,0.6149479746818542,0.5695765018463135
+N/A,Wordpress Augmented-Reality - Remote Code Execution Unauthenticated,3,0.6103959083557129,0.592893381913503
+N/A,Automatic-Systems SOC FL9600 FastLine - Directory Transversal,3,0.609441876411438,0.566233495871226
+N/A,OpenCATS 0.9.4 - Remote Code Execution (RCE),3,0.6067915558815002,0.5885243614514669
+CVE-2018-11784,Apache Tomcat 9.0.0.M1 - Open Redirect,3,0.6053659915924072,0.49206971128781635
+CVE-2018-19423,Codiad 2.8.4 - Remote Code Execution (Authenticated) (3),3,0.6010964512825012,0.5697553356488546
+N/A,Oriol Espinal CMS 1.0 - 'id' SQL Injection,3,0.5984501838684082,0.5822503169377645
+N/A,Hotel and Lodge Management System 1.0 - Remote Code Execution (Unauthenticated),3,0.5938493609428406,0.5912014643351237
+CVE-2022-35919,Minio 2022-07-29T19-40-48Z - Path traversal,3,0.5850610136985779,0.5742942492167155
+N/A,InoERP 0.7.2 - Remote Code Execution (Unauthenticated),3,0.5845271944999695,0.5824401378631592
+CVE-2022â25765,pdfkit v0.8.7.2 - Command Injection,3,0.5831871032714844,0.5639564593633016
+N/A,Terramaster TOS 4.2.15 - Remote Code Execution (RCE) (Unauthenticated),3,0.5763527750968933,0.5419108867645264
+N/A,NodeBB Forum 1.12.2-1.14.2 - Account Takeover,3,0.5734273791313171,0.512814333041509
+N/A,UPS Network Management Card 4 - Path Traversal,3,0.5639928579330444,0.5519798398017883
+N/A,Sentry 8.2.0 - Remote Code Execution (RCE) (Authenticated),3,0.5322955846786499,0.5119775732358297
+CVE-2022-22909,Hotel Druid 3.0.3 - Remote Code Execution (RCE),3,0.524983823299408,0.5084503889083862
+N/A,PlaySMS 1.4.3 - Template Injection / Remote Code Execution,2,0.980618417263031,0.8031416535377502
+CVE-2022-31125,Roxy WI v6.1.0.0 - Improper Authentication Control,2,0.9434213042259216,0.9364896714687347
+CVE-2021-28164,Jetty 9.4.37.v20210219 - Information Disclosure,2,0.8391966819763184,0.6614985913038254
+CVE-2022-1162,Gitlab 14.9 - Authentication Bypass,2,0.7881821990013123,0.7800031304359436
+CVE-2023-2745,WordPress Core 6.2 - Directory Traversal,2,0.7522442936897278,0.6891820430755615
+N/A,PHP < 8.3.8 - Remote Code Execution (Unauthenticated) (Windows),2,0.7409630417823792,0.6820261180400848
+CVE-2023-0315,Froxlor 2.0.3 Stable - Remote Code Execution (RCE),2,0.7119824886322021,0.7031639218330383
+CVE-2022-36446,Webmin 1.996 - Remote Code Execution (RCE) (Authenticated),2,0.7073209881782532,0.6387635171413422
+N/A,Apache Flink 1.9.x - File Upload RCE (Unauthenticated),2,0.6990119218826294,0.6340515613555908
+N/A,COVID19 Testing Management System 1.0 - SQL Injection (Auth Bypass),2,0.6976965069770813,0.6372632682323456
+CVE-2024-48827,Watcharr 1.43.0 - Remote Code Execution (RCE),2,0.6925647258758545,0.6236824989318848
+N/A,CMSUno 1.6.2 - 'user' Remote Code Execution (Authenticated),2,0.6844870448112488,0.6020858883857727
+N/A,Zentao Project Management System 17.0 - Authenticated Remote Code Execution (RCE),2,0.6844713091850281,0.6125695109367371
+N/A,SEO Panel 4.6.0 - Remote Code Execution (1),2,0.6809757351875305,0.6474566161632538
+CVE-2022-41544,GetSimple CMS v3.3.16 - Remote Code Execution (RCE),2,0.6797565817832947,0.6334555149078369
+N/A,Engineers Online Portal 1.0 - File Upload Remote Code Execution (RCE),2,0.6794949173927307,0.6555262506008148
+N/A,OpenEMR v7.0.1 - Authentication credentials brute force,2,0.6766013503074646,0.6375508606433868
+N/A,Poultry Farm Management System v1.0 - Remote Code Execution (RCE),2,0.6713227033615112,0.60282102227211
+CVE-2020-8793,OpenSMTPD 6.6.3 - Arbitrary File Read,2,0.6686992049217224,0.6027141511440277
+N/A,WebsiteBaker 2.13.0 - Remote Code Execution (RCE) (Authenticated),2,0.6676774621009827,0.6676326096057892
+CVE-2022-24734,MyBB 1.8.29 - MyBB 1.8.29 - Remote Code Execution (RCE) (Authenticated),2,0.6662275195121765,0.6197029948234558
+N/A,HTMLy Version v2.9.6 - Stored XSS,2,0.6649311184883118,0.6171619594097137
+N/A,CMSUno 1.6.2 - 'lang' Remote Code Execution (Authenticated),2,0.6644750237464905,0.5919224917888641
+N/A,Tomcat proprietaryEvaluate 9.0.0.M1 - Sandbox Escape,2,0.6618483066558838,0.5212854295969009
+CVE-2023-38836,BoidCMS v2.0.0 - authenticated file upload vulnerability,2,0.6616854071617126,0.6258833408355713
+N/A,GitLab 12.9.0 - Arbitrary File Read,2,0.6588441729545593,0.643058717250824
+N/A,Google Chrome Browser 111.0.5563.64 - AXPlatformNodeCocoa Fatal OOM/Crash (macOS),2,0.6561110019683838,0.6245546042919159
+CVE-2022-24637,Open Web Analytics 1.7.3 - Remote Code Execution,2,0.6549696922302246,0.6478280425071716
+CVE-2019-17240,Bludit 3.9.2 - Auth Bruteforce Bypass,2,0.6541250944137573,0.6127752363681793
+N/A,AlphaWeb XE - File Upload Remote Code Execution (RCE) (Authenticated),2,0.6529531478881836,0.5980570018291473
+CVE-2021-31762,Webmin 1.973 - 'save_user.cgi' Cross-Site Request Forgery (CSRF),2,0.6515423059463501,0.5978690385818481
+N/A,Hitachi NAS (HNAS) System Management Unit (SMU) Backup & Restore < 14.8.7825.01 - IDOR,2,0.6479204297065735,0.6173075139522552
+N/A,TextPattern CMS 4.9.0-dev - Remote Command Execution (RCE) (Authenticated),2,0.6446896195411682,0.5990640223026276
+CVE-2025-27533,Apache ActiveMQ 6.1.6 - Denial of Service (DOS),2,0.6443210244178772,0.5884881913661957
+N/A,iMLog < 1.307 - Persistent Cross Site Scripting (XSS),2,0.6434829831123352,0.6185508072376251
+CVE-2021-46398,FileBrowser 2.17.2 - Cross Site Request Forgery (CSRF) to Remote Code Execution (RCE),2,0.6413455605506897,0.6144090592861176
+CVE-2021-42697,Akka HTTP 10.1.14 - Denial of Service,2,0.6409775018692017,0.61069655418396
+N/A,Roundcube Webmail 1.2 - File Disclosure,2,0.6396152377128601,0.6022768914699554
+CVE-2022-26982,SimpleMachinesForum v2.1.1 - Authenticated Remote Code Execution,2,0.6388714909553528,0.6088481247425079
+N/A,WordPress Plugin InfiniteWP Client 1.9.4.5 - Authentication Bypass,2,0.6387423872947693,0.6217264235019684
+N/A,LabVantage 8.3 - Information Disclosure,2,0.6347254514694214,0.607134073972702
+N/A,Gitlab 12.9.0 - Arbitrary File Read (Authenticated),2,0.6301249265670776,0.623546838760376
+CVE-2020-8794,OpenSMTPD < 6.6.3p1 - Local Privilege Escalation + Remote Code Execution,2,0.6294324994087219,0.5497356206178665
+N/A,WordPress Plugin Media-Tags 3.2.0.2 - Stored Cross-Site Scripting (XSS),2,0.628349244594574,0.6103450059890747
+N/A,WordPress Plugin Elementor 3.6.2 - Remote Code Execution (RCE) (Authenticated),2,0.6281291842460632,0.6183938980102539
+N/A,jizhi CMS 1.6.7 - Arbitrary File Download,2,0.6244368553161621,0.5858848094940186
+N/A,UniSharp Laravel File Manager 2.0.0 - Arbitrary File Read,2,0.6237666606903076,0.5813494026660919
+CVE-2023-39362,Cacti 1.2.24 - Authenticated command injection when using SNMP options,2,0.6218966245651245,0.5401282459497452
+N/A,GetSimple CMS My SMTP Contact Plugin 1.1.2 - Persistent Cross-Site Scripting,2,0.6192960143089294,0.5444549471139908
+CVE-2022-26965,Pluck CMS 4.7.16 - Remote Code Execution (RCE) (Authenticated),2,0.6174190640449524,0.5960656702518463
+N/A,WordPress Plugin Picture Gallery 1.4.2 - 'Edit Content URL' Stored Cross-Site Scripting (XSS),2,0.616992712020874,0.6015290915966034
+CVE-2021-28976,GetSimpleCMS 3.3.16 - Remote Code Execution (RCE),2,0.6166821122169495,0.6156400740146637
+N/A,WordPress Plugin Supsystic Digital Publications 1.6.9 - Multiple Vulnerabilities,2,0.6165961623191833,0.5885838866233826
+N/A,Sentrifugo CMS 3.2 - Persistent Cross-Site Scripting,2,0.6160027980804443,0.5982559323310852
+CVE-2022-34128,GLPI  Cartography Plugin v6.0.0 - Unauthenticated Remote Code Execution (RCE),2,0.6157689690589905,0.6084332168102264
+CVE-2020-28337,Microweber CMS 1.1.20 - Remote Code Execution (Authenticated),2,0.6157182455062866,0.58646559715271
+N/A,Webtateas 2.0 - Arbitrary File Read,2,0.6130515933036804,0.5937679708003998
+CVE-2022-31056,GLPI v10.0.2 - SQL Injection (Authentication Depends on Configuration),2,0.6130402684211731,0.606626033782959
+CVE-2019-13068,Grafana <=6.2.4 - HTML Injection,2,0.6128124594688416,0.5636244714260101
+CVE-2022-23642,Sourcegraph Gitserver 3.36.3 - Remote Code Execution (RCE),2,0.6123093366622925,0.5951341986656189
+N/A,WordPress Plugin Supsystic Contact Form 1.7.5 - Multiple Vulnerabilities,2,0.6110971570014954,0.5810851454734802
+N/A,Wordpress 4.9.6 - Arbitrary File Deletion (Authenticated) (2),2,0.6103024482727051,0.5875054895877838
+CVE-2024-4367,Firefox ESR 115.11 - PDF.js Arbitrary JavaScript execution,2,0.6101481318473816,0.589555561542511
+N/A,Chevereto 3.13.4 Core - Remote Code Execution,2,0.6084368824958801,0.5336533188819885
+CVE-2020-6507,Google Chrome 81.0.4044 V8 - Remote Code Execution,2,0.6065440773963928,0.581664651632309
+CVE-2020-35606,Webmin 1.962 - 'Package Updates' Escape Bypass RCE (Metasploit),2,0.6058362126350403,0.5946192145347595
+N/A,Online Traffic Offense Management System 1.0 - Multiple RCE (Unauthenticated),2,0.6029148101806641,0.5980259776115417
+N/A,CuteNews 2.1.2 - Arbitrary File Deletion,2,0.6016245484352112,0.575246661901474
+CVE-2021-27973,Piwigo 11.3.0 - 'language' SQL,2,0.601325511932373,0.5284348279237747
+CVE-2025-37928,Parrot and DJI variants Drone OSes - Kernel Panic Exploit,2,0.5980194211006165,0.5722187757492065
+CVE-2020-13951,Apache OpenMeetings 5.0.0 - 'hostname' Denial of Service,2,0.596746563911438,0.5821196436882019
+CVE-2020-12352;CVE-2020-12351,Linux Kernel 5.4 - 'BleedingTooth' Bluetooth Zero-Click Remote Code Execution,2,0.5963085889816284,0.5384494811296463
+CVE-2023-24788,NotrinosERP 0.7 - Authenticated Blind SQL Injection,2,0.5935449600219727,0.5916637182235718
+CVE-2020-2229,Jenkins 2.235.3 - 'tooltip' Stored Cross-Site Scripting,2,0.5932707190513611,0.5914449393749237
+N/A,Webtareas 2.0 - 'id' SQL Injection,2,0.5931799411773682,0.5879983901977539
+N/A,Dolibarr Version 17.0.1 - Stored XSS,2,0.5869662761688232,0.5833361148834229
+N/A,Processwire CMS 2.4.0 - 'download' Local File Inclusion,2,0.584208071231842,0.5659953653812408
+N/A,Karel IP Phone IP1211 Web Management Panel - Directory Traversal,2,0.5810668468475342,0.5695792138576508
+CVE-2020-25787,Tiny Tiny RSS - Remote Code Execution,2,0.5805377960205078,0.5779202282428741
+N/A,Lavalite v9.0.0 - XSRF-TOKEN cookie File path traversal,2,0.5768764615058899,0.5623024702072144
+CVE-2021-39608,FlatCore CMS 2.0.7 - Remote Code Execution (RCE) (Authenticated),2,0.5757930874824524,0.5648524165153503
+CVE-2025-50286,Grav CMS 1.7.48 - Remote Code Execution (RCE),2,0.571965754032135,0.5710010528564453
+N/A,WatchGuard Fireware AD Helper Component 5.8.5.10317 - Credential Disclosure,2,0.5714828372001648,0.5593034327030182
+N/A,BigTree CMS 4.4.10 - Remote Code Execution,2,0.567564070224762,0.551308274269104
+N/A,Affiliate Me Version 5.0.1 - SQL Injection,2,0.5639939308166504,0.5591559410095215
+CVE-2020-22841,b2evolution 6.11.6 - 'plugin name' Stored XSS,2,0.5587370991706848,0.5552308559417725
+N/A,WordPress Plugin LearnPress 3.2.6.8 - Privilege Escalation,2,0.5508319735527039,0.5256578922271729
+N/A,Dolibarr 11.0.3 - Persistent Cross-Site Scripting,2,0.5505736470222473,0.511357307434082
+N/A,Laravel Valet 2.0.3 - Local Privilege Escalation (macOS),2,0.549251139163971,0.5458966791629791
+N/A,atrocore 1.5.25 User interaction - Unauthenticated File upload - RCE,2,0.5384528040885925,0.4992593824863434
+CVE-2023-40028,Ghost CMS 5.59.1 - Arbitrary File Read,1,0.8464472889900208,0.8464472889900208
+N/A,Responsive FileManager 9.13.4 - 'path' Path Traversal,1,0.8191558122634888,0.8191558122634888
+CVE-2022-24715,Icinga Web 2.10 - Authenticated Remote Code Execution,1,0.7669521570205688,0.7669521570205688
+N/A,GetSimple CMS Custom JS 0.1 - Cross-Site Request Forgery,1,0.726722002029419,0.726722002029419
+CVE-2020-5504,phpMyAdmin 5.0.0 - SQL Injection,1,0.7225964069366455,0.7225964069366455
+N/A,Joomla! Component ACYMAILING 3.9.0 - Unauthenticated Arbitrary File Upload,1,0.7140700817108154,0.7140700817108154
+N/A,Online Documents Sharing Platform 1.0 - 'user' SQL Injection,1,0.7028267979621887,0.7028267979621887
+N/A,XMB 1.9.12.06 - Stored XSS,1,0.6956338286399841,0.6956338286399841
+N/A,Traffic Offense Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),1,0.6926841735839844,0.6926841735839844
+N/A,Simple Library Management System 1.0 - 'rollno' SQL Injection,1,0.6919949054718018,0.6919949054718018
+N/A,Responsive Tourism Website 3.1 - Remote Code Execution (RCE) (Unauthenticated),1,0.691178560256958,0.691178560256958
+CVE-2025-51398,LiveHelperChat 4.61 - Stored Cross Site Scripting (XSS) via Facebook Integration Page Name Field,1,0.6875597834587097,0.6875597834587097
+N/A,Dairy Farm Shop Management System 1.0 - 'username' SQL Injection,1,0.6846445798873901,0.6846445798873901
+N/A,Online Hotel Booking In PHP 1.0 - Blind SQL Injection (Unauthenticated),1,0.6829774975776672,0.6829774975776672
+N/A,Seotoaster 3.2.0 - Stored XSS on Edit page properties,1,0.6801648736000061,0.6801648736000061
+N/A,User Registration & Login and User Management System 2.1 - Login Bypass SQL Injection,1,0.6737985014915466,0.6737985014915466
+N/A,Revenue Collection System v1.0 - Remote Code Execution (RCE),1,0.6735705137252808,0.6735705137252808
+CVE-2022-4407,phpMyFAQ 3.1.7 - Reflected Cross-Site Scripting (XSS),1,0.6734270453453064,0.6734270453453064
+CVE-2024-44762,Usermin 2.100 - Username Enumeration,1,0.6723635196685791,0.6723635196685791
+N/A,Blood Bank v1.0 - Stored Cross Site Scripting (XSS),1,0.671930730342865,0.671930730342865
+N/A,Liferay CE Portal 6.0.2 - Remote Command Execution,1,0.6717807054519653,0.6717807054519653
+N/A,Online Traffic Offense Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),1,0.6699270606040955,0.6699270606040955
+CVE-2021-22145,ElasticSearch 7.13.3 - Memory disclosure,1,0.6682493686676025,0.6682493686676025
+N/A,Employee Management System v1 - 'email' SQL Injection,1,0.6670703291893005,0.6670703291893005
+N/A,Human Resources Management System v1.0 - Multiple SQLi,1,0.6669243574142456,0.6669243574142456
+N/A,COVID19 Testing Management System 1.0 - 'searchdata' SQL Injection,1,0.6668378710746765,0.6668378710746765
+N/A,Beauty Salon Management System v1.0 - SQLi,1,0.666658878326416,0.666658878326416
+CVE-2020-35314,WonderCMS 3.1.3 - Authenticated Remote Code Execution,1,0.666214108467102,0.666214108467102
+N/A,PHPKB Multi-Language 9 - Authenticated Remote Code Execution,1,0.6600572466850281,0.6600572466850281
+CVE-2024-22836,Akaunting < 3.1.3 - RCE,1,0.65953129529953,0.65953129529953
+CVE-2024-44762,Webmin Usermin 2.100 - Username Enumeration,1,0.6584529876708984,0.6584529876708984
+N/A,Student Enrollment 1.0 - Unauthenticated Remote Code Execution,1,0.657001256942749,0.657001256942749
+N/A,ImpressCMS 1.4.2 - Remote Code Execution (RCE) (Authenticated),1,0.6562743186950684,0.6562743186950684
+CVE-2020-35948,Wordpress Plugin XCloner 4.2.12 - Remote Code Execution (Authenticated),1,0.650913417339325,0.650913417339325
+CVE-2022-3766,phpMyFAQ  3.1.7 - Reflected Cross-Site Scripting (XSS),1,0.6500846743583679,0.6500846743583679
+CVE-2019-0235,Apache OFBiz 17.12.03 - Cross-Site Request Forgery (Account Takeover),1,0.6495087742805481,0.6495087742805481
+N/A,Complaints Report Management System 1.0 - 'username' SQL Injection / Remote Code Execution,1,0.6490824222564697,0.6490824222564697
+CVE-2022-46945,NagVis 1.9.33 - Arbitrary File Read,1,0.6488818526268005,0.6488818526268005
+N/A,LimeSurvey 4.1.11 - 'Permission Roles' Persistent Cross-Site Scripting,1,0.6470176577568054,0.6470176577568054
+N/A,Hospital Management System 4.0 - Authentication Bypass,1,0.6439106464385986,0.6439106464385986
+CVE-2019-12765,Joomla! 3.9.0 < 3.9.7 - CSV Injection,1,0.6428791284561157,0.6428791284561157
+N/A,PHP Melody 3.0 - 'Multiple' Cross-Site Scripting (XSS),1,0.6427452564239502,0.6427452564239502
+N/A,ZoneMinder Snapshots < 1.37.33 - Unauthenticated RCE,1,0.642595112323761,0.642595112323761
+N/A,PHP 7.3.15-3 - 'PHP_SESSION_UPLOAD_PROGRESS' Session Data Injection,1,0.6416090130805969,0.6416090130805969
+N/A,WordPress Plugin amministrazione-aperta 3.7.3 - Local File Read - Unauthenticated,1,0.6414685249328613,0.6414685249328613
+N/A,phpAbook 0.9i - SQL Injection,1,0.6405102014541626,0.6405102014541626
+N/A,Joomla Plugin Simple Image Gallery Extended (SIGE) 3.5.3 - Multiple Vulnerabilities,1,0.638357400894165,0.638357400894165
+N/A,GZ Forum Script 1.8 - Stored Cross-Site Scripting (XSS),1,0.6354401707649231,0.6354401707649231
+N/A,Scriptcase 9.7 - Remote Code Execution (RCE),1,0.629085123538971,0.629085123538971
+CVE-2022-28598,ERPNext 12.29 - Cross-Site Scripting (XSS),1,0.6287428140640259,0.6287428140640259
+N/A,Joomla! com_fabrik 3.9.11 - Directory Traversal,1,0.6265166401863098,0.6265166401863098
+N/A,Gym Management System 1.0 - Unauthenticated Remote Code Execution,1,0.6249244809150696,0.6249244809150696
+CVE-2021-23017,Nginx 1.20.0 - Denial of Service (DOS),1,0.6243557333946228,0.6243557333946228
+N/A,WordPress Plugin Filterable Portfolio Gallery 1.0 - 'title' Stored Cross-Site Scripting (XSS),1,0.6228919625282288,0.6228919625282288
+N/A,Ecommerse v1.0 - Cross-Site Scripting (XSS),1,0.6228407621383667,0.6228407621383667
+N/A,LimeSurvey Community 5.3.32 - Stored XSS,1,0.621281087398529,0.621281087398529
+N/A,COVID19 Testing Management System 1.0 - 'State' Stored Cross-Site-Scripting (XSS),1,0.6210311651229858,0.6210311651229858
+N/A,Boss Mini 1.4.0 - local file inclusion,1,0.6210084557533264,0.6210084557533264
+N/A,Testa 3.5.1 Online Test Management System - Reflected Cross-Site Scripting (XSS),1,0.6209384799003601,0.6209384799003601
+N/A,OpenCart 3.0.3.6 - 'subject' Stored Cross-Site Scripting,1,0.6204203963279724,0.6204203963279724
+N/A,PEEL Shopping 9.3.0 - 'address' Stored Cross-Site Scripting,1,0.6191728711128235,0.6191728711128235
+N/A,GetSimple CMS Plugin Multi User 1.8.2 - Cross-Site Request Forgery (Add Admin),1,0.61906498670578,0.61906498670578
+N/A,Budget and Expense Tracker System 1.0 -  Remote Code Execution (RCE) (Unauthenticated),1,0.6188056468963623,0.6188056468963623
+N/A,WordPress Plugin Popup Builder 3.69.6 - Multiple Stored Cross Site Scripting,1,0.618412971496582,0.618412971496582
+N/A,b2evolution 6.11.6 - 'redirect_to' Open Redirect,1,0.6176878809928894,0.6176878809928894
+CVE-2020-11456,LimeSurvey 4.1.11 - 'Survey Groups' Persistent Cross-Site Scripting,1,0.617280125617981,0.617280125617981
+N/A,Academy LMS 6.1 - Arbitrary File Upload,1,0.617220938205719,0.617220938205719
+N/A,OpenEMR 5.0.1.7 - 'fileName' Path Traversal (Authenticated) (2),1,0.6167946457862854,0.6167946457862854
+N/A,Online Examination System 1.0 - 'name' Stored Cross Site Scripting,1,0.6159557700157166,0.6159557700157166
+N/A,Computer Laboratory Management System v1.0 - Multiple-SQLi,1,0.6153512597084045,0.6153512597084045
+N/A,GuppY CMS v6.00.10 - Remote Code Execution,1,0.6145265698432922,0.6145265698432922
+N/A,spip v4.1.10 - Spoofing Admin account,1,0.6144253611564636,0.6144253611564636
+N/A,ProjeQtOr Project Management 9.1.4 - Remote Code Execution,1,0.6126999855041504,0.6126999855041504
+CVE-2023-30145,Camaleon CMS v2.7.0 - Server-Side Template Injection (SSTI),1,0.6126295328140259,0.6126295328140259
+N/A,Online Student's Management System 1.0 - Remote Code Execution (Authenticated),1,0.6124759912490845,0.6124759912490845
+CVE-2006-1236,crossfire-server 1.9.0 - 'SetUp()' Remote Buffer Overflow,1,0.6116365194320679,0.6116365194320679
+N/A,phpPgAdmin 7.13.0 - COPY FROM PROGRAM Command Execution (Authenticated),1,0.6108404994010925,0.6108404994010925
+N/A,Joomla! com_hdwplayer 4.2 - 'search.php' SQL Injection,1,0.6105291843414307,0.6105291843414307
+CVE-2023-24626,GNU screen v4.9.0 - Privilege Escalation,1,0.6100041270256042,0.6100041270256042
+N/A,Simple Client Management System 1.0 - 'uemail' SQL Injection (Unauthenticated),1,0.6095154881477356,0.6095154881477356
+N/A,Car Rental Project 2.0 - Arbitrary File Upload to Remote Code Execution,1,0.6093230843544006,0.6093230843544006
+N/A,LibreHealth 2.0.0 - Authenticated Remote Code Execution,1,0.6087650060653687,0.6087650060653687
+N/A,Vehicle Service Management System 1.0 - Remote Code Execution (RCE) (Unauthenticated),1,0.6084276437759399,0.6084276437759399
+N/A,WordPress Plugin Supsystic Membership 1.4.7 - 'sidx' SQL injection,1,0.6024183034896851,0.6024183034896851
+CVE-2020-16040,Google Chrome 86.0.4240 V8 - Remote Code Execution,1,0.6020033359527588,0.6020033359527588
+N/A,Boelter Blue System Management 1.3 - SQL Injection,1,0.6003744006156921,0.6003744006156921
+N/A,Cemetry Mapping and Information System 1.0 - Multiple SQL Injections,1,0.6003337502479553,0.6003337502479553
+N/A,WBCE 1.6.0 - Unauthenticated SQL injection,1,0.5995377898216248,0.5995377898216248
+N/A,EyouCMS 1.4.6 - Persistent Cross-Site Scripting,1,0.5988559722900391,0.5988559722900391
+N/A,Expense Management System - 'description' Stored Cross Site Scripting,1,0.5981041193008423,0.5981041193008423
+N/A,WordPress Plugin visitors-app 0.3 - 'user-agent' Stored Cross-Site Scripting (XSS),1,0.5970994234085083,0.5970994234085083
+N/A,Kuicms PHP EE 2.0 - Persistent Cross-Site Scripting,1,0.5969681739807129,0.5969681739807129
+N/A,Wordpress Plugin PicUploader 1.0 - Remote File Upload,1,0.5968033075332642,0.5968033075332642
+N/A,WebTareas 2.4 - RCE (Authorized),1,0.596551775932312,0.596551775932312
+CVE-2021-28242,b2evolution 7-2-2 - 'cf_name' SQL Injection,1,0.5963466167449951,0.5963466167449951
+CVE-2023-37269,WinterCMS < 1.2.3 - Persistent Cross-Site Scripting,1,0.5954933166503906,0.5954933166503906
+N/A,Online Shopping Portal 3.1 - 'email' SQL Injection,1,0.5949318408966064,0.5949318408966064
+CVE-2022-31188,CVAT 2.0 - Server Side Request Forgery,1,0.5945109724998474,0.5945109724998474
+N/A,101 News 1.0 - Multiple-SQLi,1,0.592907190322876,0.592907190322876
+N/A,WordPress Plugin Backup and Restore 1.0.3 - Arbitrary File Deletion,1,0.5927314758300781,0.5927314758300781
+CVE-2020-28328,SuiteCRM 7.11.15 - 'last_name' Remote Code Execution (Authenticated),1,0.5910795331001282,0.5910795331001282
+N/A,Juniper-SRX-Firewalls&EX-switches - (PreAuth-RCE) (PoC),1,0.5905210971832275,0.5905210971832275
+N/A,ICE Hrm 29.0.0.OS - 'xml upload' Stored Cross-Site Scripting (XSS),1,0.5891679525375366,0.5891679525375366
+CVE-2020-25557;CVE-2020-25538,CMSUno 1.6.2 - 'lang' Remote Code Execution (Authenticated),1,0.5890368819236755,0.5890368819236755
+N/A,Tourism Management System v2.0 - Arbitrary File Upload,1,0.5883552432060242,0.5883552432060242
+CVE-2020-10963,Laravel Administrator 4 - Unrestricted File Upload (Authenticated),1,0.5881906747817993,0.5881906747817993
+N/A,Purei CMS 1.0 - SQL Injection,1,0.5876496434211731,0.5876496434211731
+N/A,CMS Made Simple 2.2.15 - RCE (Authenticated),1,0.5875982642173767,0.5875982642173767
+N/A,Elementor Website Builder < 3.12.2 - Admin+ SQLi,1,0.586121141910553,0.586121141910553
+N/A,Gibbon LMS < v26.0.00 - Authenticated RCE,1,0.5847635865211487,0.5847635865211487
+CVE-2020-25790,Typesetter CMS 5.1 - Arbitrary Code Execution (Authenticated),1,0.5842030644416809,0.5842030644416809
+CVE-2025-47917,Mbed TLS 3.6.4 - Use-After-Free,1,0.5838209986686707,0.5838209986686707
+N/A,WebLogic Server 10.3.6.0.0 / 12.1.3.0.0 / 12.2.1.3.0 / 12.2.1.4.0 / 14.1.1.0.0 - Unauthenticated RCE,1,0.5834671258926392,0.5834671258926392
+N/A,Concrete5 CME v9.1.3 - Xpath injection,1,0.5833178162574768,0.5833178162574768
+CVE-2024-55661,Laravel Pulse 1.3.1 - Arbitrary Code Injection,1,0.5832969546318054,0.5832969546318054
+N/A,WordPress Plugin Simple File List 4.2.2 - Arbitrary File Upload,1,0.5830410122871399,0.5830410122871399
+N/A,WordPress Plugin Simple File List 4.2.2 - Remote Code Execution,1,0.5828287601470947,0.5828287601470947
+N/A,Victor CMS 1.0 - Authenticated Arbitrary File Upload,1,0.5823642611503601,0.5823642611503601
+N/A,Senayan Library Management System v9.5.0 - SQL Injection,1,0.5822914838790894,0.5822914838790894
+N/A,Complaint Management System 4.0 - 'cid' SQL injection,1,0.5819570422172546,0.5819570422172546
+N/A,moziloCMS 2.0 - Persistent Cross-Site Scripting (Authenticated),1,0.5815180540084839,0.5815180540084839
+N/A,Voyager 1.3.0 - Directory Traversal,1,0.5812429785728455,0.5812429785728455
+CVE-2022-44268,ImageMagick 7.1.0-49 - Arbitrary File Read,1,0.5809508562088013,0.5809508562088013
+CVE-2020-8518,Horde Groupware Webmail Edition 5.2.22 - Remote Code Execution,1,0.5808643698692322,0.5808643698692322
+N/A,Navigate CMS 2.8.7 - Authenticated Directory Traversal,1,0.5805311799049377,0.5805311799049377
+N/A,House Rental 1.0 - 'keywords' SQL Injection,1,0.5798840522766113,0.5798840522766113
+N/A,Internship Portal Management System 1.0 - Remote Code Execution(Unauthenticated),1,0.5794400572776794,0.5794400572776794
+CVE-2021-36711,OctoBot WebInterface 0.4.3 - Remote Code Execution (RCE),1,0.5790773034095764,0.5790773034095764
+N/A,TYPO3 11.5.24 - Path Traversal (Authenticated),1,0.5786254405975342,0.5786254405975342
+N/A,Wordpress Plugin MStore API 2.0.6 - Arbitrary File Upload,1,0.5781650543212891,0.5781650543212891
+N/A,PhreeBooks 5.2.3 ERP - Remote Code Execution (2),1,0.5781148672103882,0.5781148672103882
+CVE-2021-45010;CVE-2021-40964,Tiny File Manager 2.4.6 - Remote Code Execution (RCE),1,0.5778543949127197,0.5778543949127197
+N/A,PhotoShow 3.0 - Remote Code Execution,1,0.577099621295929,0.577099621295929
+N/A,WordPress Plugin Typebot 1.4.3 - Stored Cross Site Scripting (XSS) (Authenticated),1,0.5753633379936218,0.5753633379936218
+N/A,Drupal avatar_uploader v7.x-1.0-beta8 - Cross Site Scripting (XSS),1,0.5733523964881897,0.5733523964881897
+CVE-2023-1998,Linux Kernel 6.2 -  Userspace Processes To Enable Mitigation,1,0.5729190707206726,0.5729190707206726
+CVE-2020-8163,Rails 5.0.1 - Remote Code Execution,1,0.5726361274719238,0.5726361274719238
+N/A,Dell Security Management Server <1.9.0 - Local Privilege Escalation,1,0.5716032385826111,0.5716032385826111
+N/A,rConfig 3.9.6 - 'path' Local File Inclusion (Authenticated),1,0.5712610483169556,0.5712610483169556
+CVE-2024-27612,Numbas < v7.3 - Remote Code Execution,1,0.5699256658554077,0.5699256658554077
+N/A,Billing Management System 2.0 - Union based SQL injection (Authenticated),1,0.5692936778068542,0.5692936778068542
+N/A,FUXA V.1.1.13-1186 - Unauthenticated Remote Code Execution (RCE),1,0.5689318180084229,0.5689318180084229
+CVE-2020-6519,Chromium 83 - Full CSP Bypass,1,0.5682087540626526,0.5682087540626526
+N/A,Karaf v4.4.3 Console - RCE,1,0.5667380690574646,0.5667380690574646
+N/A,Fuel CMS 1.4.7 - 'col' SQL Injection (Authenticated),1,0.5665520429611206,0.5665520429611206
+N/A,Online-Exam-System 2015 - 'feedback' SQL Injection,1,0.5665167570114136,0.5665167570114136
+CVE-2024-11392,Hugging Face Transformers MobileViTV2 4.41.1 - Remote Code Execution (RCE),1,0.5662922263145447,0.5662922263145447
+CVE-2024-31777,GUnet OpenEclass E-learning platform 3.15 - 'certbadge.php' Unrestricted File Upload,1,0.5660091042518616,0.5660091042518616
+N/A,WordPress Plugin WP Statistics 13.0.7 - Time-Based Blind SQL Injection (Unauthenticated),1,0.563183069229126,0.563183069229126
+N/A,Real Player v.20.0.8.310 G2 Control - 'DoGoToURL()' Remote Code Execution (RCE),1,0.5609752535820007,0.5609752535820007
+N/A,Xenforo Version 2.2.13 - Authenticated Stored XSS,1,0.5598096251487732,0.5598096251487732
+CVE-2022-44267,ImageMagick 7.1.0-49 - DoS,1,0.5597549080848694,0.5597549080848694
+CVE-2021-43405,FusionPBX 4.5.29 - Remote Code Execution (RCE) (Authenticated),1,0.559390127658844,0.559390127658844
+N/A,Online Diagnostic Lab Management System 1.0 - SQL Injection (Unauthenticated),1,0.558881938457489,0.558881938457489
+N/A,vBulletin 5.6.2 - 'widget_tabbedContainer_tab_panel' Remote Code Execution,1,0.5587642192840576,0.5587642192840576
+CVE-2024-12483,UJCMS 9.6.3 - User Enumeration via IDOR,1,0.5577691793441772,0.5577691793441772
+N/A,Patient Appointment Scheduler System 1.0 - Unauthenticated File Upload,1,0.5560692548751831,0.5560692548751831
+N/A,WebHMI 4.1.1 - Remote Code Execution (RCE) (Authenticated),1,0.554283618927002,0.554283618927002
+N/A,Automatic-Systems SOC FL9600 FastLine - The device contains hardcoded login and password for super a,1,0.5534265041351318,0.5534265041351318
+N/A,Gila CMS 2.0.0 - Remote Code Execution (Unauthenticated),1,0.552969753742218,0.552969753742218
+CVE-2020-7934,LifeRay 7.2.1 GA2 - Stored XSS,1,0.5528519153594971,0.5528519153594971
+N/A,Employee Performance Evaluation System v1.0 - File Inclusion and RCE,1,0.5528315305709839,0.5528315305709839
+CVE-2023-0744,Answerdev 1.0.3 - Account Takeover,1,0.5521717667579651,0.5521717667579651
+N/A,Evolution CMS 3.1.6 - Remote Code Execution (RCE) (Authenticated),1,0.5520271062850952,0.5520271062850952
+N/A,YouPHPTube<= 7.8 - Multiple Vulnerabilities,1,0.550887942314148,0.550887942314148
+N/A,Barangay Management System 1.0 - Authentication Bypass,1,0.5504904389381409,0.5504904389381409
+CVE-2022-23409,Ethercreative Logs 3.0.3 - Path Traversal,1,0.5497996807098389,0.5497996807098389
+N/A,BoltWire 6.03 - Local File Inclusion,1,0.5497881770133972,0.5497881770133972
+N/A,Library CMS Powerful Book Management System 2.2.0 - Session Fixation,1,0.5481604933738708,0.5481604933738708
+N/A,CraftCMS 3 vCard Plugin 1.0.0 - Remote Code Execution,1,0.5475930571556091,0.5475930571556091
+N/A,Monitoring System (Dashboard) 1.0 - File Upload RCE (Authenticated),1,0.545607328414917,0.545607328414917
+N/A,OTRS 6.0.1 - Remote Command Execution (2),1,0.5439082384109497,0.5439082384109497
+CVE-2020-9038,Joplin Desktop 1.0.184 - Cross-Site Scripting,1,0.5420544147491455,0.5420544147491455
+N/A,Online Matrimonial Project 1.0 - Authenticated Remote Code Execution,1,0.5417057871818542,0.5417057871818542
+CVE-2021-43617,PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF),1,0.5408270359039307,0.5408270359039307
+N/A,WordPress Plugin Contact Form Entries 1.1.6 - Cross Site Scripting (XSS) (Unauthenticated),1,0.5402881503105164,0.5402881503105164
+N/A,copyparty 1.8.2 - Directory Traversal,1,0.540195882320404,0.540195882320404
+N/A,Monitorr 1.7.6m - Remote Code Execution (Unauthenticated),1,0.5392401218414307,0.5392401218414307
+N/A,Dental Clinic Appointment Reservation System 1.0 - Cross Site Request Forgery (Add Admin),1,0.5385717749595642,0.5385717749595642
+N/A,QNAP QTS and Photo Station 6.0.3 - Remote Command Execution,1,0.537580132484436,0.537580132484436
+CVE-2022-46770,qubes-mirage-firewall  v0.8.3 - Denial Of Service (DoS),1,0.5375093221664429,0.5375093221664429
+N/A,Jinfornet Jreport 15.6 - Unauthenticated Directory Traversal,1,0.5370213985443115,0.5370213985443115
+N/A,soosyze 2.0.0 - File Upload,1,0.5363739132881165,0.5363739132881165
+N/A,Patient Appointment Scheduler System 1.0 - Persistent Cross-Site Scripting,1,0.5342023968696594,0.5342023968696594
+N/A,UADMIN Botnet 1.0 - 'link' SQL Injection,1,0.5340405702590942,0.5340405702590942
+CVE-2019-14322,Pallets Werkzeug 0.15.4 - Path Traversal,1,0.533740758895874,0.533740758895874
+CVE-2025-51403,LiveHelperChat 4.61 - Stored Cross Site Scripting (XSS) via Department Assignment Alias Nick Field,1,0.5318034291267395,0.5318034291267395
+N/A,mPDF 7.0 - Local File Inclusion,1,0.5313647985458374,0.5313647985458374
+CVE-2022-29548,WSO2 Management Console (Multiple Products) - Unauthenticated Reflected Cross-Site Scripting (XSS),1,0.5296905040740967,0.5296905040740967
+N/A,Wordpress Plugin WP Guppy 1.1 - WP-JSON API Sensitive Information Disclosure,1,0.5293547511100769,0.5293547511100769
+N/A,WSO2 3.1.0 - Arbitrary File Delete,1,0.5292479395866394,0.5292479395866394
+N/A,OpenEMR 5.0.1 - Remote Code Execution (1),1,0.528641939163208,0.528641939163208
+N/A,Serendipity 2.4.0 - File Inclusion RCE,1,0.5280551910400391,0.5280551910400391
+N/A,Perch v3.2 - Remote Code Execution (RCE),1,0.5272956490516663,0.5272956490516663
+N/A,RiteCMS 3.1.0 - Arbitrary File Deletion (Authenticated),1,0.5256543159484863,0.5256543159484863
+N/A,Ultimate POS 4.4 - 'name' Cross-Site Scripting (XSS),1,0.5237212777137756,0.5237212777137756
+CVE-2022-23513,AdminLTE PiHole 5.18 - Broken Access Control,1,0.5229666829109192,0.5229666829109192
+N/A,CouchCMS 2.2.1 - Persistent Cross-Site Scripting,1,0.5173957943916321,0.5173957943916321
+CVE-2017-9380,OpenEMR 5.0.0 - Remote Code Execution (Authenticated),1,0.5148227214813232,0.5148227214813232
+CVE-2020-11060,GLPI GZIP(Py3) 9.4.5 - RCE,1,0.5146415829658508,0.5146415829658508
+CVE-2020-13448,QuickBox Pro 2.1.8 - Authenticated Remote Code Execution,1,0.5122711062431335,0.5122711062431335
+CVE-2024-47773,Discourse 3.2.x - Anonymous Cache Poisoning,1,0.5095050930976868,0.5095050930976868
+CVE-2021-33393,IPFire 2.25 - Remote Code Execution (Authenticated),1,0.5065723657608032,0.5065723657608032
+N/A,Rukovoditel Project Management CRM 2.5.2 - 'filters' SQL Injection,1,0.5015882253646851,0.5015882253646851
+N/A,Automad 2.0.0-alpha.4 - Stored Cross-Site Scripting (XSS),1,0.4998275935649872,0.4998275935649872
+N/A,Rukovoditel Project Management CRM 2.5.2 - 'entities_id' SQL Injection,1,0.498047411441803,0.498047411441803
+CVE-2022-37109,_camp_ Raspberry Pi camera server 1.0 -  Authentication Bypass,1,0.4939730763435364,0.4939730763435364
+N/A,e107 v2.3.2 - Reflected XSS,1,0.47640207409858704,0.47640207409858704
+CVE-2022-36633,Teleport v10.1.1 - Remote Code Execution (RCE),1,0.4747760593891144,0.4747760593891144
+CVE-2022-38580,X-Skipper-Proxy v0.13.237 - Server Side Request Forgery (SSRF),1,0.47460052371025085,0.47460052371025085
+N/A,Centreon 19.10.5 - 'centreontrapd' Remote Command Execution,1,0.46647825837135315,0.46647825837135315
+N/A,Nagios XI 5.7.5 - Multiple Persistent Cross-Site Scripting,1,0.45958346128463745,0.45958346128463745
+N/A,Executables Created with perl2exe < V30.10C - Arbitrary Code Execution,1,0.459133505821228,0.459133505821228
+N/A,Frappe Framework (ERPNext) 13.4.0 - Remote Code Execution (Authenticated),1,0.43630310893058777,0.43630310893058777
+N/A,Online Job Portal 1.0 - 'user_email' SQL Injection,1,0.42814794182777405,0.42814794182777405
+CVE-2021-43116,Nacos 2.0.3 - Access Control vulnerability,1,0.39999839663505554,0.39999839663505554
+N/A,Serendipity 2.5.0 - Remote Code Execution (RCE),1,0.344138503074646,0.344138503074646
+CVE-2019-13358,OpenCats 0.9.4-2 - 'docx ' XML External Entity Injection (XXE),1,0.34047186374664307,0.34047186374664307
